@@ -1,8 +1,8 @@
 
-Aquatic mammals
-===============
+Introducing philosophy
+======================
 
-Content generated from the OpenLearn Unit `Aquatic mammals <https://www.open.edu/openlearn/nature-environment/aquatic-mammals/content-section-0>`_.
+Content generated from the OpenLearn Unit `Introducing philosophy <https://www.open.edu/openlearn/history-the-arts/philosophy/introducing-philosophy/content-section-0>`_.
 
 
 Contents:
